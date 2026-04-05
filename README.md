@@ -1,4 +1,4 @@
-# 02 Entorno, Jest y primer test
+# Pruebas Unitarias y Funcionales de Software (02 Jest)
 
 Sigue las instrucciones delineadas en el [documento de la lección](https://hub.hybridge.education/doc/2-entorno-jest-y-primer-test-unitario-Vq9XIyWdew). Deberás crear los archivos necesarios y escribir la prueba unitaria que pruebe el endpoint `/tareas`.
 
